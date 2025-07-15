@@ -77,10 +77,3 @@ Sorted array:
 - [GeeksForGeeks - Radix Sort](https://www.geeksforgeeks.org/radix-sort/)
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome!  
-If you find a bug or have suggestions for improvement, feel free to open an issue or contribute directly.
-
----
