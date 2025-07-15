@@ -1,21 +1,21 @@
-**Merge Sort C++ Implementation**
+**Merge Sort C++ Implementation** 🧩
 
-**Overview**
+**Overview** 📝
 
 This repository provides a high-performance, stable Merge Sort implementation in C++ using template-based iterators. It supports sorting of arbitrary types (e.g., integers, strings) and efficiently handles large datasets with O(n log n) time complexity.
 
 ---
 
-**Features**
+**Features** ✨
 
-* **Generic**: Template-based, works with any comparable data type.
-* **Stable**: Preserves the relative order of equal elements.
-* **Efficient**: O(n log n) time complexity in all cases, suitable for large data.
-* **User Input**: Reads integer arrays from standard input and displays sorted results.
+* **Generic** 🧬: Template-based, works with any comparable data type.
+* **Stable** 🛡️: Preserves the relative order of equal elements.
+* **Efficient** ⚡: O(n log n) time complexity in all cases, suitable for large data.
+* **User Input** 🎯: Reads integer arrays from standard input and displays sorted results.
 
 ---
 
-**Directory Structure**
+**Directory Structure** 🗂️
 
 ```
 / (root)
@@ -26,14 +26,14 @@ This repository provides a high-performance, stable Merge Sort implementation in
 
 ---
 
-**Dependencies**
+**Dependencies** 📦
 
 * C++11 or later
 * Standard C++ Library
 
 ---
 
-**Compilation**
+**Compilation** 🛠️
 
 Use any modern C++ compiler. For example, with `g++`:
 
@@ -44,7 +44,7 @@ g++ -std=c++11 -O2 merge_sort.cpp -o merge_sort
 
 ---
 
-**Usage**
+**Usage** 🚀
 
 1. Run the executable:
 
@@ -72,9 +72,10 @@ algorithm implementation merge sort
 
 ---
 
-**Customization**
+**Customization** ⚙️
 
 * To remove or modify the built-in string sorting test, edit the `main` function in `merge_sort.cpp`.
 * To adapt for other data types, provide a `std::vector<T>` and call the `mergeSort` template wrapper.
 
 ---
+
