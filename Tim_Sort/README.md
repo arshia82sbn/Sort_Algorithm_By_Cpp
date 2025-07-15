@@ -86,18 +86,3 @@ algorithm cpp hybrid sort timsort
 * Python's source code: [https://github.com/python/cpython/blob/main/Objects/listsort.txt](https://github.com/python/cpython/blob/main/Objects/listsort.txt)
 
 ---
-
-## 📃 License
-
-This project is provided for educational purposes and is free to use.
-
----
-
-## ✍️ Author
-
-**Arshia Saberian**
-Custom implementation and documentation in professional C++ style.
-
----
-
-Feel free to contribute or suggest improvements!
