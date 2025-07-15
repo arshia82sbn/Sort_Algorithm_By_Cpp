@@ -80,17 +80,3 @@ apple banana cherry date
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 
 ---
-
-## 📄 License
-
-This code is free to use for personal, academic, or commercial purposes. Just give credit if you find it useful. 🙌
-
----
-
-## 👨‍💻 Author
-
-Crafted with precision by **Arshia Saberian** 💼
-
-Feel free to fork, star, or suggest improvements!
-
----
